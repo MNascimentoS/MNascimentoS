@@ -50,13 +50,7 @@ I write about Android, AI, home lab and automation.
 - 📄 Resume: [EN](https://mnascimentos.dev/cv/Mateus_Nascimento_Santos_EN.pdf) · [PT-BR](https://mnascimentos.dev/cv/Mateus_Nascimento_Santos_PT_BR.pdf)
 
 ### 📊 GitHub stats
-
-<div align="center">
-  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MNascimentoS&theme=tokyonight" />
-  <br />
-  <img width="345" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MNascimentoS&theme=tokyonight" />
-  <img width="345" height="200" src="https://streak-stats.demolab.com?user=MNascimentoS&theme=tokyonight&hide_border=true&card_width=340&card_height=200" />
-</div>
+l
 
 ---
 
