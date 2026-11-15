@@ -49,9 +49,6 @@ I write about Android, AI, home lab and automation.
 - **ACSO/UNEB** researcher — RoboCup 3D Simulated Soccer & Very Small Size Soccer 🤖⚽
 - 📄 Resume: [EN](https://mnascimentos.dev/cv/Mateus_Nascimento_Santos_EN.pdf) · [PT-BR](https://mnascimentos.dev/cv/Mateus_Nascimento_Santos_PT_BR.pdf)
 
-### 📊 GitHub stats
-l
-
 ---
 
 <div align="center">
