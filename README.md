@@ -1,16 +1,69 @@
-![githubbadge](https://img.shields.io/github/followers/MNascimentoS?style=social) <a href="https://www.linkedin.com/in/mateusn/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mateus%20Nascimento-blue?style=flat&logo=linkedin"></a> [![Instagram Badge](https://img.shields.io/badge/-mnascimentos_-purple?&logo=instagram&logoColor=white&link=[https://www.instagram.com/mnascimentos/](https://www.instagram.com/mnascimentos/))](https://instagram.com/mnascimentos)
+<div align="center">
 
-Welcome to my Github!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=3DDC84&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mateus+%F0%9F%91%8B;Android+Engineer;Building+AI-powered+apps;Kotlin+%E2%80%A2+Compose+%E2%80%A2+Automation" alt="Typing SVG" />
 
-## :bar_chart: Currently I'm working:
+<p>
+  <a href="https://mnascimentos.dev/en/"><img src="https://img.shields.io/badge/mnascimentos.dev-3DDC84?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/mateusn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:contato@mnascimentos.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
- - As Android Developer;
- - Using ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?&logo=kotlin) ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) ![enter image description here](https://img.shields.io/badge/-gitflow-05a698?&logo=git);
+<img src="https://komarev.com/ghpvc/?username=MNascimentoS&style=flat-square&color=3DDC84&label=profile+views" />
+<img src="https://img.shields.io/github/followers/MNascimentoS?style=flat-square&color=3DDC84" />
 
-## :mortar_board: Graduated:
-Information System bachelor, in UNEB ((Bahia State University)!
+</div>
 
-## :speech_balloon: And I also...
-Can help with your open source project, connect you with great tech communities and recommend great materials about diversity and inclusion! 🎉
+---
 
-Let's talk! 
+### 👨‍💻 About me
+
+Software engineer from **Salvador, Brazil 🇧🇷**, focused on **Android (Kotlin, Compose) & AI**. I currently lead Android development of a conversational AI assistant used by millions of customers, and I've spent the last years building app homes, Design Systems and leading mobile teams.
+
+### 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,git,github,docker,linux,python,raspberrypi&theme=dark" />
+</p>
+
+### 🚀 Featured projects
+
+| Project | What it is |
+|---|---|
+| 🤖 **C6 Assistant** | Android lead of C6 Bank's conversational AI assistant, launched to 35M customers (2024–present) |
+| 🏦 **C6 Home Experience** | App home, login, investments, profile and Design System at C6 Bank (2020–2024) |
+| 🌙 **[Aureole Launcher](https://aureole.mnascimentos.dev)** | Customizable Android launcher built with Jetpack Compose — [repo](https://github.com/MNascimentoS/Aureole-Launcher) |
+| ⚽ **EC Bahia** | Official Esporte Clube Bahia app, 100k+ downloads |
+| 🏠 **Home lab** | Self-hosted services, IoT and smart home with Home Assistant |
+
+➡️ More on [mnascimentos.dev/projetos](https://mnascimentos.dev/projetos/)
+
+### ✍️ My blog
+
+I write about Android, AI, home lab and automation.
+
+<a href="https://mnascimentos.dev/blog/"><img src="https://img.shields.io/badge/Read%20the%20blog-mnascimentos.dev%2Fblog-3DDC84?style=for-the-badge&logo=hashnode&logoColor=black&labelColor=1a1b27" /></a>
+
+### 🎓 Background
+
+- **B.Sc. in Information Systems — UNEB.** Thesis on searching pawn structures in large chess databases (*Bitboard vs CPSD*)
+- **ACSO/UNEB** researcher — RoboCup 3D Simulated Soccer & Very Small Size Soccer 🤖⚽
+- 📄 Resume: [EN](https://mnascimentos.dev/cv/Mateus_Nascimento_Santos_EN.pdf) · [PT-BR](https://mnascimentos.dev/cv/Mateus_Nascimento_Santos_PT_BR.pdf)
+
+### 📊 GitHub stats
+
+<div align="center">
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MNascimentoS&theme=tokyonight" />
+  <br />
+  <img width="345" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MNascimentoS&theme=tokyonight" />
+  <img width="345" height="200" src="https://streak-stats.demolab.com?user=MNascimentoS&theme=tokyonight&hide_border=true&card_width=340&card_height=200" />
+</div>
+
+---
+
+<div align="center">
+
+💬 Happy to help with your open source project, connect you with great tech communities, or share good material on **diversity & inclusion** 🎉
+
+**Let's talk!**
+
+</div>
